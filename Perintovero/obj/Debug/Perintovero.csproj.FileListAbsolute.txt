@@ -1,0 +1,7 @@
+C:\Users\jasup\OneDrive\Työpöytä\Haaga Helia\C#\Perintovero\bin\Debug\Perintovero.exe.config
+C:\Users\jasup\OneDrive\Työpöytä\Haaga Helia\C#\Perintovero\bin\Debug\Perintovero.exe
+C:\Users\jasup\OneDrive\Työpöytä\Haaga Helia\C#\Perintovero\bin\Debug\Perintovero.pdb
+C:\Users\jasup\OneDrive\Työpöytä\Haaga Helia\C#\Perintovero\obj\Debug\Perintovero.csproj.AssemblyReference.cache
+C:\Users\jasup\OneDrive\Työpöytä\Haaga Helia\C#\Perintovero\obj\Debug\Perintovero.csproj.CoreCompileInputs.cache
+C:\Users\jasup\OneDrive\Työpöytä\Haaga Helia\C#\Perintovero\obj\Debug\Perintovero.exe
+C:\Users\jasup\OneDrive\Työpöytä\Haaga Helia\C#\Perintovero\obj\Debug\Perintovero.pdb
